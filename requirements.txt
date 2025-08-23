@@ -1,6 +1,4 @@
-jupyterlab
 voila
 ipywidgets
 matplotlib
 pygments
-jupyterlab-hide-code
